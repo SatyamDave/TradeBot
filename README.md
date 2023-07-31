@@ -21,9 +21,7 @@ Run the bot using python trade_bot.py and watch it in action!
 
 The bot's performance can be monitored through the console output and the generated dataF DataFrame. However, always remember to validate the strategy with extensive testing before using it for real trading.
 
-🔒 License:
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 📚 Resources:
 
